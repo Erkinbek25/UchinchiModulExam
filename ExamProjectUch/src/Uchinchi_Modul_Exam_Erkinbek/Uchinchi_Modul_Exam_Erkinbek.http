@@ -1,0 +1,6 @@
+@Uchinchi_Modul_Exam_Erkinbek_HostAddress = http://localhost:5101
+
+GET {{Uchinchi_Modul_Exam_Erkinbek_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
