@@ -1,0 +1,30 @@
+Nazariy savollarga javoblar
+
+
+1 LINQ ni tushuntirib bering
+
+LINQlar bu bizga berilgan tayyor 
+Biz ulardan malumotlar filtrlashda, izlashda, tartib lashda foydalanishimiz mumkin.
+Misol uchun: where orqali bizga kerak bo'ldan malumotni shartlar orgali bilib olishumiz mumkin
+sllect bizga kerak bo'lgan ayna bitta narsani topib beradi, OrderBy - kichikdan kattaga tartiblab beradi, 
+
+2 OOP ni tushuntirib bering
+
+Object oriendet Programm (obyektga yo'naltirilgan dasturlash tili) - Bu dastur qurishning bit yo'li (approach)
+OOP ning asosiy 4 ta ustuni mavjud bular - abstraction, encapsulation, inheretance, 
+bular biragalikda OOP ni tashkol etadi.
+Abstraction - mavxumlik bu bilan biz kodni qyin qismini yashirishga yordam beradi, interface bu 100 foiz abstraction.
+Biz mashina haydaganimizda faqat rul va tormizdan foydalanamiz ichkaridagi jarayon, matordagi jarayon bizga qiziq emas
+huddi shunday abstraction bizga yordam beradi ichkarida bo'layotgan jarayonga javob beradi.
+Kelajacda kodimizni kengaytirmoqchi bo'lsak yoki yangi funksiya qo'shsakham bu juda oson bo'ladi qanday
+biz yangi alternativ yangilik qildik bir hil vazifa bajaradigan shunjay jarayonda osongina almashtrib kerak bo'lsa
+eski usulga qaytishimiz ham mumkin bu ko'p vaqt olmayidi. 
+
+3 Boxing vs Unboxing ni tushuntrib bering
+
+Bu bir value typedan referens tayga o'tkazish boxing deyiladi yani int dan objectga o'tkazsat biror qiymatni
+bu boxing hisoblanadi. Agar objectdan value typega o'tkazadigan bo'lsak object to value type bu Unboxing hisoblanadi.
+
+
+
+
